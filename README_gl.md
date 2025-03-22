@@ -5,9 +5,7 @@ NON debe editarse manualmente.
 
 # Cjdns para YunoHost
 
-[![Nivel de integración](https://apps.yunohost.org/badge/integration/cjdns)](https://ci-apps.yunohost.org/ci/apps/cjdns/)
-![Estado de funcionamento](https://apps.yunohost.org/badge/state/cjdns)
-![Estado de mantemento](https://apps.yunohost.org/badge/maintained/cjdns)
+[![Nivel de integración](https://dash.yunohost.org/integration/cjdns.svg)](https://ci-apps.yunohost.org/ci/apps/cjdns/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/cjdns.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/cjdns.maintain.svg)
 
 [![Instalar Cjdns con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cjdns)
 

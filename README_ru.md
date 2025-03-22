@@ -5,9 +5,7 @@
 
 # Cjdns для YunoHost
 
-[![Уровень интеграции](https://apps.yunohost.org/badge/integration/cjdns)](https://ci-apps.yunohost.org/ci/apps/cjdns/)
-![Состояние работы](https://apps.yunohost.org/badge/state/cjdns)
-![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/cjdns)
+![Уровень интеграции](https://dash.yunohost.org/integration/cjdns.svg)](https://ci-apps.yunohost.org/ci/apps/cjdns/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/cjdns.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/cjdns.maintain.svg)
 
 [![Установите Cjdns с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cjdns)
 

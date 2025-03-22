@@ -5,9 +5,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Cjdns untuk YunoHost
 
-[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/cjdns)](https://ci-apps.yunohost.org/ci/apps/cjdns/)
-![Status kerja](https://apps.yunohost.org/badge/state/cjdns)
-![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/cjdns)
+[![Tingkat integrasi](https://dash.yunohost.org/integration/cjdns.svg)](https://ci-apps.yunohost.org/ci/apps/cjdns/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/cjdns.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/cjdns.maintain.svg)
 
 [![Pasang Cjdns dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cjdns)
 
