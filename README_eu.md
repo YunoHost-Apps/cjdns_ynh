@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Cjdns YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/cjdns.svg)](https://dash.yunohost.org/appci/app/cjdns) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/cjdns.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/cjdns.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/cjdns)](https://ci-apps.yunohost.org/ci/apps/cjdns/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/cjdns)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/cjdns)
 
 [![Instalatu Cjdns YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=cjdns)
 
